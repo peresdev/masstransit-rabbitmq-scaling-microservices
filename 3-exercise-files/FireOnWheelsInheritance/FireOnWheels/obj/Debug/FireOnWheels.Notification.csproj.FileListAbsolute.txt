@@ -1,0 +1,8 @@
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels\bin\Debug\FireOnWheels.Notification.exe.config
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels\bin\Debug\FireOnWheels.Notification.exe
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels\bin\Debug\FireOnWheels.Notification.pdb
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels\obj\Debug\FireOnWheels.Notification.csprojResolveAssemblyReference.cache
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels\obj\Debug\FireOnWheels.Notification.exe
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels\obj\Debug\FireOnWheels.Notification.pdb

@@ -1,0 +1,35 @@
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels\obj\Debug\FireOnWheels.Notification.Service.csprojResolveAssemblyReference.cache
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels\obj\Debug\FireOnWheels.Notification.exe
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels\obj\Debug\FireOnWheels.Notification.pdb
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels\bin\Debug\FireOnWheels.Notification.exe.config
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels\bin\Debug\FireOnWheels.Notification.exe
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels\bin\Debug\FireOnWheels.Notification.pdb
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels\bin\Debug\FireOnWheels.MessageContracts.dll
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels\bin\Debug\FireOnWheels.MessageContracts.pdb
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m1\FireOnWheels\FireOnWheels\bin\Debug\FireOnWheels.Notification.exe.config
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m1\FireOnWheels\FireOnWheels\bin\Debug\FireOnWheels.Notification.exe
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m1\FireOnWheels\FireOnWheels\bin\Debug\FireOnWheels.Notification.pdb
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m1\FireOnWheels\FireOnWheels\bin\Debug\FireOnWheels.Messaging.dll
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m1\FireOnWheels\FireOnWheels\bin\Debug\FireOnWheels.Messaging.pdb
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m1\FireOnWheels\FireOnWheels\obj\Debug\FireOnWheels.Notification.Service.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m1\FireOnWheels\FireOnWheels\obj\Debug\FireOnWheels.Notification.exe
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m1\FireOnWheels\FireOnWheels\obj\Debug\FireOnWheels.Notification.pdb
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m3\FireOnWheels\FireOnWheels\bin\Debug\FireOnWheels.Messaging.dll
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m3\FireOnWheels\FireOnWheels\bin\Debug\MassTransit.dll
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m3\FireOnWheels\FireOnWheels\bin\Debug\MassTransit.RabbitMqTransport.dll
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m3\FireOnWheels\FireOnWheels\bin\Debug\NewId.dll
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m3\FireOnWheels\FireOnWheels\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m3\FireOnWheels\FireOnWheels\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m3\FireOnWheels\FireOnWheels\bin\Debug\FireOnWheels.Messaging.pdb
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m3\FireOnWheels\FireOnWheels\bin\Debug\MassTransit.xml
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m3\FireOnWheels\FireOnWheels\bin\Debug\MassTransit.RabbitMqTransport.xml
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m3\FireOnWheels\FireOnWheels\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m3\FireOnWheels\FireOnWheels\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m3\FireOnWheels\FireOnWheels\obj\Debug\FireOnWheels.Notification.Service.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m3\FireOnWheels\FireOnWheels\bin\Debug\FireOnWheels.Notification.Service.exe.config
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m3\FireOnWheels\FireOnWheels\bin\Debug\FireOnWheels.Notification.Service.exe
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m3\FireOnWheels\FireOnWheels\bin\Debug\FireOnWheels.Notification.Service.pdb
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m3\FireOnWheels\FireOnWheels\obj\Debug\FireOnWheels.Notification.Service.exe
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m3\FireOnWheels\FireOnWheels\obj\Debug\FireOnWheels.Notification.Service.pdb

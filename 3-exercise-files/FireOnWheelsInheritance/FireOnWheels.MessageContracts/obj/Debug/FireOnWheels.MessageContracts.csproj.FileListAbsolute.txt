@@ -1,0 +1,5 @@
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels.MessageContracts\bin\Debug\FireOnWheels.MessageContracts.dll
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels.MessageContracts\bin\Debug\FireOnWheels.MessageContracts.pdb
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels.MessageContracts\obj\Debug\FireOnWheels.MessageContracts.dll
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels.MessageContracts\obj\Debug\FireOnWheels.MessageContracts.pdb
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels.MessageContracts\obj\Debug\FireOnWheels.MessageContracts.csprojResolveAssemblyReference.cache

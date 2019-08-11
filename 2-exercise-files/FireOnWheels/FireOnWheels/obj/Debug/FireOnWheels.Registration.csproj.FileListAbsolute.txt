@@ -1,0 +1,8 @@
+c:\users\roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels\bin\Debug\FireOnWheels.Registration.exe.config
+c:\users\roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels\bin\Debug\FireOnWheels.Registration.exe
+c:\users\roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels\bin\Debug\FireOnWheels.Registration.pdb
+c:\users\roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels\obj\Debug\FireOnWheels.Registration.csprojResolveAssemblyReference.cache
+c:\users\roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels\obj\Debug\FireOnWheels.Registration.exe
+c:\users\roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels\obj\Debug\FireOnWheels.Registration.pdb
+c:\users\roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels\bin\Debug\RabbitMQ.Client.dll
+c:\users\roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels\bin\Debug\RabbitMQ.Client.xml

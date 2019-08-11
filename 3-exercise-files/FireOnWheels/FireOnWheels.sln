@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireOnWheels.Notification.Service", "FireOnWheels\FireOnWheels.Notification.Service.csproj", "{7279990F-5ED0-4BF0-ABEB-6DEAAF327CE7}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "FireOnWheels.Registration.Web", "FireOnWheels.Registration\FireOnWheels.Registration.Web.xproj", "{146FE67D-AB7E-46DC-9162-057C763676D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireOnWheels.Messaging", "FireOnWheels.MessageContracts\FireOnWheels.Messaging.csproj", "{EE8D1F0A-C6F6-41BD-A191-E0D2D661A2DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireOnWheels.Registration.Service", "FireOnWheels.Registration.Service\FireOnWheels.Registration.Service.csproj", "{0AC9BBE7-2CA6-4D58-9DE7-DA63DAA623CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireOnWheels.Finance.Service", "FireOnWheels.Finance.Service\FireOnWheels.Finance.Service.csproj", "{D27EC663-4659-48DF-92E3-E3E36F6C5B83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7279990F-5ED0-4BF0-ABEB-6DEAAF327CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7279990F-5ED0-4BF0-ABEB-6DEAAF327CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7279990F-5ED0-4BF0-ABEB-6DEAAF327CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7279990F-5ED0-4BF0-ABEB-6DEAAF327CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{146FE67D-AB7E-46DC-9162-057C763676D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146FE67D-AB7E-46DC-9162-057C763676D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146FE67D-AB7E-46DC-9162-057C763676D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146FE67D-AB7E-46DC-9162-057C763676D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE8D1F0A-C6F6-41BD-A191-E0D2D661A2DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE8D1F0A-C6F6-41BD-A191-E0D2D661A2DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE8D1F0A-C6F6-41BD-A191-E0D2D661A2DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE8D1F0A-C6F6-41BD-A191-E0D2D661A2DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AC9BBE7-2CA6-4D58-9DE7-DA63DAA623CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC9BBE7-2CA6-4D58-9DE7-DA63DAA623CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC9BBE7-2CA6-4D58-9DE7-DA63DAA623CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC9BBE7-2CA6-4D58-9DE7-DA63DAA623CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D27EC663-4659-48DF-92E3-E3E36F6C5B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D27EC663-4659-48DF-92E3-E3E36F6C5B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D27EC663-4659-48DF-92E3-E3E36F6C5B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D27EC663-4659-48DF-92E3-E3E36F6C5B83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

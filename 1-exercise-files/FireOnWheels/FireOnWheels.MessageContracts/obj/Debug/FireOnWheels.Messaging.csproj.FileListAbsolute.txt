@@ -1,0 +1,5 @@
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m1\FireOnWheels\FireOnWheels.MessageContracts\bin\Debug\FireOnWheels.Messaging.dll
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m1\FireOnWheels\FireOnWheels.MessageContracts\bin\Debug\FireOnWheels.Messaging.pdb
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m1\FireOnWheels\FireOnWheels.MessageContracts\obj\Debug\FireOnWheels.Messaging.dll
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m1\FireOnWheels\FireOnWheels.MessageContracts\obj\Debug\FireOnWheels.Messaging.pdb
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m1\FireOnWheels\FireOnWheels.MessageContracts\obj\Debug\FireOnWheels.Messaging.csprojResolveAssemblyReference.cache

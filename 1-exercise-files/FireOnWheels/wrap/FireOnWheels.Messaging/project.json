@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net451": {
+      "wrappedProject": "../../FireOnWheels.MessageContracts/FireOnWheels.Messaging.csproj",
+      "bin": {
+        "assembly": "../../FireOnWheels.MessageContracts/obj/{configuration}/FireOnWheels.Messaging.dll",
+        "pdb": "../../FireOnWheels.MessageContracts/obj/{configuration}/FireOnWheels.Messaging.pdb"
+      }
+    }
+  }
+}

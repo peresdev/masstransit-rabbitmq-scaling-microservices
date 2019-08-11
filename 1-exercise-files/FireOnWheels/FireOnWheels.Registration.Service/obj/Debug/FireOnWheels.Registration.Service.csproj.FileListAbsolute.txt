@@ -1,0 +1,16 @@
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels.Registration.Service\bin\Debug\FireOnWheels.Registration.Service.exe.config
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels.Registration.Service\bin\Debug\FireOnWheels.Registration.Service.exe
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels.Registration.Service\bin\Debug\FireOnWheels.Registration.Service.pdb
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels.Registration.Service\obj\Debug\FireOnWheels.Registration.Service.exe
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels.Registration.Service\obj\Debug\FireOnWheels.Registration.Service.pdb
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels.Registration.Service\bin\Debug\FireOnWheels.MessageContracts.dll
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels.Registration.Service\bin\Debug\FireOnWheels.MessageContracts.pdb
+C:\Users\Roland\documents\visual studio 2015\Projects\FireOnWheels\FireOnWheels.Registration.Service\obj\Debug\FireOnWheels.Registration.Service.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m1\FireOnWheels\FireOnWheels.Registration.Service\bin\Debug\FireOnWheels.Registration.Service.exe.config
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m1\FireOnWheels\FireOnWheels.Registration.Service\bin\Debug\FireOnWheels.Registration.Service.exe
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m1\FireOnWheels\FireOnWheels.Registration.Service\bin\Debug\FireOnWheels.Registration.Service.pdb
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m1\FireOnWheels\FireOnWheels.Registration.Service\bin\Debug\FireOnWheels.Messaging.dll
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m1\FireOnWheels\FireOnWheels.Registration.Service\bin\Debug\FireOnWheels.Messaging.pdb
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m1\FireOnWheels\FireOnWheels.Registration.Service\obj\Debug\FireOnWheels.Registration.Service.csprojResolveAssemblyReference.cache
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m1\FireOnWheels\FireOnWheels.Registration.Service\obj\Debug\FireOnWheels.Registration.Service.exe
+C:\Users\Roland\Dropbox\Pluralsight\5-MassTransit\m1\FireOnWheels\FireOnWheels.Registration.Service\obj\Debug\FireOnWheels.Registration.Service.pdb

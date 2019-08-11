@@ -1,2 +1,2 @@
-# masstransit-rabbitmq-scaling-microservices
-masstransit-rabbitmq-scaling-microservices
+# Scaling Applications with Microservices, MassTransit, and RabbitMQ
+Course Studies: Scaling Applications with Microservices, MassTransit, and RabbitMQ
